@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: 574a23911561cba49928387769c7ed59
+timeCreated: 1470035840
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f0000006000000061000000620000006300000064000000
+  assetHash:
+    serializedVersion: 2
+    Hash: bc5ccc1609aa353c84dfe922f082586b
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 2.2347672, y: 1.7125863, z: -1.1809828}
+      lookAt: {x: -0.27502975, y: 0.4576879, z: 1.3288143}
+      up: {x: -0.23570226, y: 0.94280905, z: 0.23570226}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: C Base Left
+    100004: C Base Left 1
+    100006: C Base Right
+    100008: C Base Right 1
+    100010: C Base#1
+    100012: C Base#1 1
+    100014: C Base#3
+    100016: C Glass#1
+    100018: C Glass#1 1
+    100020: C Head
+    100022: C Head 1
+    100024: C Head Left
+    100026: C Head Left 1
+    100028: C Head Right
+    100030: C Head Right 1
+    100032: C Left
+    100034: C Left 1
+    100036: C Right
+    100038: C Right 1
+    100040: cadre#3
+    100042: coulissante#1
+    100044: coulissante#3
+    100046: F Base
+    100048: F Base 1
+    100050: F Base Left
+    100052: F Base Left 1
+    100054: F Base Right#1
+    100056: F Base Right#1 1
+    100058: F Head
+    100060: F Head 1
+    100062: F Head Droit
+    100064: F Head Droit 1
+    100066: F Head Gauche
+    100068: F Head Gauche 1
+    100070: F Left
+    100072: F Left 1
+    100074: F Right
+    100076: F Right 1
+    100078: Frame Base Left#2
+    100080: Frame Base Right#2
+    100082: Frame Head Droit#2
+    100084: Frame Head Left#2
+    100086: Frame Head#2
+    100088: Frame Left#2
+    100090: 'Frame Right #2'
+    100092: Glass#1
+    100094: Glass#1 1
+    100096: Group 59
+    100098: Group 61
+    100100: Image 38
+    100102: Logo- AWS#1
+    100104: vitre#1
+    100106: vitre#3
+    100108: Window Handle#1
+    400000: //RootNode
+    400002: C Base Left
+    400004: C Base Left 1
+    400006: C Base Right
+    400008: C Base Right 1
+    400010: C Base#1
+    400012: C Base#1 1
+    400014: C Base#3
+    400016: C Glass#1
+    400018: C Glass#1 1
+    400020: C Head
+    400022: C Head 1
+    400024: C Head Left
+    400026: C Head Left 1
+    400028: C Head Right
+    400030: C Head Right 1
+    400032: C Left
+    400034: C Left 1
+    400036: C Right
+    400038: C Right 1
+    400040: cadre#3
+    400042: coulissante#1
+    400044: coulissante#3
+    400046: F Base
+    400048: F Base 1
+    400050: F Base Left
+    400052: F Base Left 1
+    400054: F Base Right#1
+    400056: F Base Right#1 1
+    400058: F Head
+    400060: F Head 1
+    400062: F Head Droit
+    400064: F Head Droit 1
+    400066: F Head Gauche
+    400068: F Head Gauche 1
+    400070: F Left
+    400072: F Left 1
+    400074: F Right
+    400076: F Right 1
+    400078: Frame Base Left#2
+    400080: Frame Base Right#2
+    400082: Frame Head Droit#2
+    400084: Frame Head Left#2
+    400086: Frame Head#2
+    400088: Frame Left#2
+    400090: 'Frame Right #2'
+    400092: Glass#1
+    400094: Glass#1 1
+    400096: Group 59
+    400098: Group 61
+    400100: Image 38
+    400102: Logo- AWS#1
+    400104: vitre#1
+    400106: vitre#3
+    400108: Window Handle#1
+    2300000: C Base Left
+    2300002: C Base Left 1
+    2300004: C Base Right
+    2300006: C Base Right 1
+    2300008: C Base#1
+    2300010: C Base#1 1
+    2300012: C Base#3
+    2300014: C Glass#1
+    2300016: C Glass#1 1
+    2300018: C Head
+    2300020: C Head 1
+    2300022: C Head Left
+    2300024: C Head Left 1
+    2300026: C Head Right
+    2300028: C Head Right 1
+    2300030: C Left
+    2300032: C Left 1
+    2300034: C Right
+    2300036: C Right 1
+    2300038: F Base
+    2300040: F Base 1
+    2300042: F Base Left
+    2300044: F Base Left 1
+    2300046: F Base Right#1
+    2300048: F Base Right#1 1
+    2300050: F Head
+    2300052: F Head 1
+    2300054: F Head Droit
+    2300056: F Head Droit 1
+    2300058: F Head Gauche
+    2300060: F Head Gauche 1
+    2300062: F Left
+    2300064: F Left 1
+    2300066: F Right
+    2300068: F Right 1
+    2300070: Frame Base Left#2
+    2300072: Frame Base Right#2
+    2300074: Frame Head Droit#2
+    2300076: Frame Head Left#2
+    2300078: Frame Head#2
+    2300080: Frame Left#2
+    2300082: 'Frame Right #2'
+    2300084: Glass#1
+    2300086: Glass#1 1
+    2300088: Group 59
+    2300090: Group 61
+    2300092: Image 38
+    3300000: C Base Left
+    3300002: C Base Left 1
+    3300004: C Base Right
+    3300006: C Base Right 1
+    3300008: C Base#1
+    3300010: C Base#1 1
+    3300012: C Base#3
+    3300014: C Glass#1
+    3300016: C Glass#1 1
+    3300018: C Head
+    3300020: C Head 1
+    3300022: C Head Left
+    3300024: C Head Left 1
+    3300026: C Head Right
+    3300028: C Head Right 1
+    3300030: C Left
+    3300032: C Left 1
+    3300034: C Right
+    3300036: C Right 1
+    3300038: F Base
+    3300040: F Base 1
+    3300042: F Base Left
+    3300044: F Base Left 1
+    3300046: F Base Right#1
+    3300048: F Base Right#1 1
+    3300050: F Head
+    3300052: F Head 1
+    3300054: F Head Droit
+    3300056: F Head Droit 1
+    3300058: F Head Gauche
+    3300060: F Head Gauche 1
+    3300062: F Left
+    3300064: F Left 1
+    3300066: F Right
+    3300068: F Right 1
+    3300070: Frame Base Left#2
+    3300072: Frame Base Right#2
+    3300074: Frame Head Droit#2
+    3300076: Frame Head Left#2
+    3300078: Frame Head#2
+    3300080: Frame Left#2
+    3300082: 'Frame Right #2'
+    3300084: Glass#1
+    3300086: Glass#1 1
+    3300088: Group 59
+    3300090: Group 61
+    3300092: Image 38
+    4300000: Mesh Frame Base Left#2
+    4300002: Mesh C Base#3
+    4300004: Mesh Frame Left#2
+    4300006: Mesh Frame Base Right#2
+    4300008: 'Mesh Frame Right #2'
+    4300010: Mesh Frame Head Left#2
+    4300012: Mesh Frame Head Droit#2
+    4300014: Mesh Frame Head#2
+    4300016: Mesh F Base Left
+    4300018: Mesh F Base
+    4300020: Mesh F Left
+    4300022: Mesh F Base Right#1
+    4300024: Mesh F Right
+    4300026: Mesh F Head Gauche
+    4300028: Mesh F Head Droit
+    4300030: Mesh F Head
+    4300032: Mesh Glass#1
+    4300034: Mesh Logo- AWS#1
+    4300036: Mesh C Base Left
+    4300038: Mesh C Base#1
+    4300040: Mesh C Left
+    4300042: Mesh C Base Right
+    4300044: Mesh C Right
+    4300046: Mesh C Head Left
+    4300048: Mesh C Head Right
+    4300050: Mesh C Head
+    4300052: Mesh C Glass#1
+    4300054: Mesh Group 59
+    4300056: Mesh Group 61
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: a00905f7c1864b44b826ae4b6690c84a
+timeCreated: 1470045077
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d000000
+  assetHash:
+    serializedVersion: 2
+    Hash: ace1960182fe13014b4904cb9bca069a
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 2.091495, y: 3.7690184, z: -2.079448}
+      lookAt: {x: -0.00037445623, y: 1.6771489, z: 0.012421545}
+      up: {x: -0.4082483, y: 0.8164966, z: 0.4082483}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 79.28612
+      isPerspective: 0
+    scenes:
+    - camera:
+        position: {x: 48.88232, y: 48.88232, z: -48.88232}
+        lookAt: {x: 43.99409, y: 43.99409, z: -43.99409}
+        up: {x: -0.4082483, y: 0.8164966, z: 0.4082483}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 2400
+        isPerspective: 0
+      name: _3D_
+    - camera:
+        position: {x: 59.89324, y: 24.208374, z: -55.50134}
+        lookAt: {x: 53.868427, y: 21.957155, z: -49.91832}
+        up: {x: -0.19387974, y: 0.9644335, z: 0.17966276}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 2400
+        isPerspective: 0
+      name: _3D_
+    - camera:
+        position: {x: 48.88232, y: 48.88232, z: -48.88232}
+        lookAt: {x: 43.99409, y: 43.99409, z: -43.99409}
+        up: {x: -0.4082483, y: 0.8164966, z: 0.4082483}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 2400
+        isPerspective: 0
+      name: _3D_
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 2900c011-3D.dwg
+    100002: 2900d405 - 405-48206
+    100004: 2900d407 - 407-46711
+    100006: //RootNode
+    100008: Group#11
+    100010: Group#14
+    100012: Group#16
+    100014: Group#17
+    100016: Group#18
+    400000: 2900c011-3D.dwg
+    400002: 2900d405 - 405-48206
+    400004: 2900d407 - 407-46711
+    400006: //RootNode
+    400008: Group#11
+    400010: Group#14
+    400012: Group#16
+    400014: Group#17
+    400016: Group#18
+    2300000: Group#11
+    2300002: Group#14
+    2300004: Group#16
+    2300006: Group#17
+    2300008: Group#18
+    3300000: Group#11
+    3300002: Group#14
+    3300004: Group#16
+    3300006: Group#17
+    3300008: Group#18
+    4300000: Mesh Group#16
+    4300002: Mesh Group#17
+    4300004: Mesh Group#18
+    4300006: Mesh Group#11
+    4300008: Mesh Group#14
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

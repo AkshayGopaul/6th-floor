@@ -1,0 +1,625 @@
+fileFormatVersion: 2
+guid: 4f5df1c1d04e5d04cb10b5bc406fc116
+timeCreated: 1469702548
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000
+  assetHash:
+    serializedVersion: 2
+    Hash: c238c7f60cb269a2c505a5e7a97ff96c
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -4.2955937, y: 2.5841205, z: -1.5202873}
+      lookAt: {x: 14.533091, y: -5.568335, z: 11.940728}
+      up: {x: 0.27025688, y: 0.9432022, z: 0.19321221}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: $MO_RUOTE
+    100002: $MO_RUOTE 1
+    100004: $MO_RUOTE 2
+    100006: $MO_RUOTE 3
+    100008: CASS 4 CASS VERDE INGL
+    100010: CASSETTIERA metallo 10X60XH63
+    100012: computer 4#1
+    100014: Flat-monitor#1
+    100016: Group 1
+    100018: Group 11
+    100020: Group 123
+    100022: Group 125
+    100024: Group 127
+    100026: Group 13
+    100028: Group 15
+    100030: Group 17
+    100032: Group 187
+    100034: Group 19
+    100036: Group 194
+    100038: Group 195
+    100040: Group 196
+    100042: Group 198
+    100044: Group 200
+    100046: Group 202
+    100048: Group 204
+    100050: Group 206
+    100052: Group 208
+    100054: Group 21
+    100056: Group 210
+    100058: Group 212
+    100060: Group 213
+    100062: Group 215
+    100064: Group 217
+    100066: Group 220
+    100068: Group 224
+    100070: Group 225
+    100072: Group 226
+    100074: Group 228
+    100076: Group 23
+    100078: Group 230
+    100080: Group 25
+    100082: Group 27
+    100084: Group 28
+    100086: Group 30
+    100088: Group 32
+    100090: Group 34
+    100092: Group 36
+    100094: Group 4
+    100096: Group 41
+    100098: Group 42
+    100100: Group 44
+    100102: Group 46
+    100104: Group 48
+    100106: Group 50
+    100108: Group 52
+    100110: Group 54
+    100112: Group 55
+    100114: Group 57
+    100116: Group 59
+    100118: Group 8
+    100120: Group 9
+    100122: Gruppo#13
+    100124: Gruppo#13 1
+    100126: Gruppo#13 2
+    100128: Gruppo#13 3
+    100130: Gruppo#14
+    100132: Gruppo#14 1
+    100134: Gruppo#14 2
+    100136: Gruppo#14 3
+    100138: Gruppo#15
+    100140: Gruppo#15 1
+    100142: Gruppo#15 2
+    100144: Gruppo#15 3
+    100146: Gruppo#15 4
+    100148: Gruppo#15 5
+    100150: Gruppo#16
+    100152: Gruppo#16 1
+    100154: Gruppo#16 2
+    100156: Gruppo#16 3
+    100158: Gruppo#16 4
+    100160: Gruppo#16 5
+    100162: Gruppo#17
+    100164: Gruppo#17 1
+    100166: Gruppo#17 2
+    100168: Gruppo#17 3
+    100170: Gruppo#17 4
+    100172: Gruppo#17 5
+    100174: Gruppo#18
+    100176: Gruppo#18 1
+    100178: Gruppo#18 2
+    100180: Gruppo#18 3
+    100182: Gruppo#18 4
+    100184: Gruppo#18 5
+    100186: Gruppo#19
+    100188: Gruppo#19 1
+    100190: Gruppo#19 2
+    100192: Gruppo#19 3
+    100194: Gruppo#19 4
+    100196: Gruppo#19 5
+    100198: Gruppo#20
+    100200: Gruppo#20 1
+    100202: Gruppo#21
+    100204: Gruppo#21 1
+    100206: Gruppo#22
+    100208: Gruppo#22 1
+    100210: Gruppo#23
+    100212: Gruppo#23 1
+    100214: Gruppo#24
+    100216: Gruppo#24 1
+    100218: Gruppo#25
+    100220: Gruppo#25 1
+    100222: J-GS
+    100224: J-GS 1
+    100226: Omni_0
+    100228: Omni_0 1
+    100230: Omni_0 2
+    100232: Omni_0 3
+    100234: SCRIV_DIREZ-AFROMOSIA__180X80
+    100236: SNAP
+    100238: SNAP 1
+    100240: SNAP 2
+    100242: SNAP 3
+    100244: SNAP#1
+    100246: SW7475-1-B
+    100248: //RootNode
+    100250: SWF6875-1-W
+    100252: TASTIERA PC
+    100254: Think
+    100256: W-cg1703d0.dwg
+    100258: W-cs180800.dwg
+    400000: $MO_RUOTE
+    400002: $MO_RUOTE 1
+    400004: $MO_RUOTE 2
+    400006: $MO_RUOTE 3
+    400008: CASS 4 CASS VERDE INGL
+    400010: CASSETTIERA metallo 10X60XH63
+    400012: computer 4#1
+    400014: Flat-monitor#1
+    400016: Group 1
+    400018: Group 11
+    400020: Group 123
+    400022: Group 125
+    400024: Group 127
+    400026: Group 13
+    400028: Group 15
+    400030: Group 17
+    400032: Group 187
+    400034: Group 19
+    400036: Group 194
+    400038: Group 195
+    400040: Group 196
+    400042: Group 198
+    400044: Group 200
+    400046: Group 202
+    400048: Group 204
+    400050: Group 206
+    400052: Group 208
+    400054: Group 21
+    400056: Group 210
+    400058: Group 212
+    400060: Group 213
+    400062: Group 215
+    400064: Group 217
+    400066: Group 220
+    400068: Group 224
+    400070: Group 225
+    400072: Group 226
+    400074: Group 228
+    400076: Group 23
+    400078: Group 230
+    400080: Group 25
+    400082: Group 27
+    400084: Group 28
+    400086: Group 30
+    400088: Group 32
+    400090: Group 34
+    400092: Group 36
+    400094: Group 4
+    400096: Group 41
+    400098: Group 42
+    400100: Group 44
+    400102: Group 46
+    400104: Group 48
+    400106: Group 50
+    400108: Group 52
+    400110: Group 54
+    400112: Group 55
+    400114: Group 57
+    400116: Group 59
+    400118: Group 8
+    400120: Group 9
+    400122: Gruppo#13
+    400124: Gruppo#13 1
+    400126: Gruppo#13 2
+    400128: Gruppo#13 3
+    400130: Gruppo#14
+    400132: Gruppo#14 1
+    400134: Gruppo#14 2
+    400136: Gruppo#14 3
+    400138: Gruppo#15
+    400140: Gruppo#15 1
+    400142: Gruppo#15 2
+    400144: Gruppo#15 3
+    400146: Gruppo#15 4
+    400148: Gruppo#15 5
+    400150: Gruppo#16
+    400152: Gruppo#16 1
+    400154: Gruppo#16 2
+    400156: Gruppo#16 3
+    400158: Gruppo#16 4
+    400160: Gruppo#16 5
+    400162: Gruppo#17
+    400164: Gruppo#17 1
+    400166: Gruppo#17 2
+    400168: Gruppo#17 3
+    400170: Gruppo#17 4
+    400172: Gruppo#17 5
+    400174: Gruppo#18
+    400176: Gruppo#18 1
+    400178: Gruppo#18 2
+    400180: Gruppo#18 3
+    400182: Gruppo#18 4
+    400184: Gruppo#18 5
+    400186: Gruppo#19
+    400188: Gruppo#19 1
+    400190: Gruppo#19 2
+    400192: Gruppo#19 3
+    400194: Gruppo#19 4
+    400196: Gruppo#19 5
+    400198: Gruppo#20
+    400200: Gruppo#20 1
+    400202: Gruppo#21
+    400204: Gruppo#21 1
+    400206: Gruppo#22
+    400208: Gruppo#22 1
+    400210: Gruppo#23
+    400212: Gruppo#23 1
+    400214: Gruppo#24
+    400216: Gruppo#24 1
+    400218: Gruppo#25
+    400220: Gruppo#25 1
+    400222: J-GS
+    400224: J-GS 1
+    400226: Omni_0
+    400228: Omni_0 1
+    400230: Omni_0 2
+    400232: Omni_0 3
+    400234: SCRIV_DIREZ-AFROMOSIA__180X80
+    400236: SNAP
+    400238: SNAP 1
+    400240: SNAP 2
+    400242: SNAP 3
+    400244: SNAP#1
+    400246: SW7475-1-B
+    400248: //RootNode
+    400250: SWF6875-1-W
+    400252: TASTIERA PC
+    400254: Think
+    400256: W-cg1703d0.dwg
+    400258: W-cs180800.dwg
+    2300000: CASS 4 CASS VERDE INGL
+    2300002: computer 4#1
+    2300004: Flat-monitor#1
+    2300006: Group 11
+    2300008: Group 123
+    2300010: Group 125
+    2300012: Group 127
+    2300014: Group 13
+    2300016: Group 15
+    2300018: Group 17
+    2300020: Group 187
+    2300022: Group 19
+    2300024: Group 196
+    2300026: Group 198
+    2300028: Group 200
+    2300030: Group 202
+    2300032: Group 204
+    2300034: Group 206
+    2300036: Group 208
+    2300038: Group 21
+    2300040: Group 210
+    2300042: Group 213
+    2300044: Group 215
+    2300046: Group 217
+    2300048: Group 220
+    2300050: Group 226
+    2300052: Group 228
+    2300054: Group 23
+    2300056: Group 230
+    2300058: Group 25
+    2300060: Group 28
+    2300062: Group 30
+    2300064: Group 32
+    2300066: Group 34
+    2300068: Group 36
+    2300070: Group 4
+    2300072: Group 42
+    2300074: Group 44
+    2300076: Group 46
+    2300078: Group 48
+    2300080: Group 50
+    2300082: Group 52
+    2300084: Group 57
+    2300086: Group 9
+    2300088: Gruppo#13
+    2300090: Gruppo#13 1
+    2300092: Gruppo#13 2
+    2300094: Gruppo#13 3
+    2300096: Gruppo#14
+    2300098: Gruppo#14 1
+    2300100: Gruppo#14 2
+    2300102: Gruppo#14 3
+    2300104: Gruppo#15
+    2300106: Gruppo#15 1
+    2300108: Gruppo#15 2
+    2300110: Gruppo#15 3
+    2300112: Gruppo#15 4
+    2300114: Gruppo#15 5
+    2300116: Gruppo#16
+    2300118: Gruppo#16 1
+    2300120: Gruppo#16 2
+    2300122: Gruppo#16 3
+    2300124: Gruppo#16 4
+    2300126: Gruppo#16 5
+    2300128: Gruppo#17
+    2300130: Gruppo#17 1
+    2300132: Gruppo#17 2
+    2300134: Gruppo#17 3
+    2300136: Gruppo#17 4
+    2300138: Gruppo#17 5
+    2300140: Gruppo#18
+    2300142: Gruppo#18 1
+    2300144: Gruppo#18 2
+    2300146: Gruppo#18 3
+    2300148: Gruppo#18 4
+    2300150: Gruppo#18 5
+    2300152: Gruppo#19
+    2300154: Gruppo#19 1
+    2300156: Gruppo#19 2
+    2300158: Gruppo#19 3
+    2300160: Gruppo#19 4
+    2300162: Gruppo#19 5
+    2300164: Gruppo#20
+    2300166: Gruppo#20 1
+    2300168: Gruppo#21
+    2300170: Gruppo#21 1
+    2300172: Gruppo#22
+    2300174: Gruppo#22 1
+    2300176: Gruppo#23
+    2300178: Gruppo#23 1
+    2300180: Gruppo#24
+    2300182: Gruppo#24 1
+    2300184: Gruppo#25
+    2300186: Gruppo#25 1
+    2300188: J-GS
+    2300190: J-GS 1
+    2300192: Omni_0
+    2300194: Omni_0 1
+    2300196: Omni_0 3
+    2300198: SW7475-1-B
+    2300200: TASTIERA PC
+    2300202: W-cs180800.dwg
+    3300000: CASS 4 CASS VERDE INGL
+    3300002: computer 4#1
+    3300004: Flat-monitor#1
+    3300006: Group 11
+    3300008: Group 123
+    3300010: Group 125
+    3300012: Group 127
+    3300014: Group 13
+    3300016: Group 15
+    3300018: Group 17
+    3300020: Group 187
+    3300022: Group 19
+    3300024: Group 196
+    3300026: Group 198
+    3300028: Group 200
+    3300030: Group 202
+    3300032: Group 204
+    3300034: Group 206
+    3300036: Group 208
+    3300038: Group 21
+    3300040: Group 210
+    3300042: Group 213
+    3300044: Group 215
+    3300046: Group 217
+    3300048: Group 220
+    3300050: Group 226
+    3300052: Group 228
+    3300054: Group 23
+    3300056: Group 230
+    3300058: Group 25
+    3300060: Group 28
+    3300062: Group 30
+    3300064: Group 32
+    3300066: Group 34
+    3300068: Group 36
+    3300070: Group 4
+    3300072: Group 42
+    3300074: Group 44
+    3300076: Group 46
+    3300078: Group 48
+    3300080: Group 50
+    3300082: Group 52
+    3300084: Group 57
+    3300086: Group 9
+    3300088: Gruppo#13
+    3300090: Gruppo#13 1
+    3300092: Gruppo#13 2
+    3300094: Gruppo#13 3
+    3300096: Gruppo#14
+    3300098: Gruppo#14 1
+    3300100: Gruppo#14 2
+    3300102: Gruppo#14 3
+    3300104: Gruppo#15
+    3300106: Gruppo#15 1
+    3300108: Gruppo#15 2
+    3300110: Gruppo#15 3
+    3300112: Gruppo#15 4
+    3300114: Gruppo#15 5
+    3300116: Gruppo#16
+    3300118: Gruppo#16 1
+    3300120: Gruppo#16 2
+    3300122: Gruppo#16 3
+    3300124: Gruppo#16 4
+    3300126: Gruppo#16 5
+    3300128: Gruppo#17
+    3300130: Gruppo#17 1
+    3300132: Gruppo#17 2
+    3300134: Gruppo#17 3
+    3300136: Gruppo#17 4
+    3300138: Gruppo#17 5
+    3300140: Gruppo#18
+    3300142: Gruppo#18 1
+    3300144: Gruppo#18 2
+    3300146: Gruppo#18 3
+    3300148: Gruppo#18 4
+    3300150: Gruppo#18 5
+    3300152: Gruppo#19
+    3300154: Gruppo#19 1
+    3300156: Gruppo#19 2
+    3300158: Gruppo#19 3
+    3300160: Gruppo#19 4
+    3300162: Gruppo#19 5
+    3300164: Gruppo#20
+    3300166: Gruppo#20 1
+    3300168: Gruppo#21
+    3300170: Gruppo#21 1
+    3300172: Gruppo#22
+    3300174: Gruppo#22 1
+    3300176: Gruppo#23
+    3300178: Gruppo#23 1
+    3300180: Gruppo#24
+    3300182: Gruppo#24 1
+    3300184: Gruppo#25
+    3300186: Gruppo#25 1
+    3300188: J-GS
+    3300190: J-GS 1
+    3300192: Omni_0
+    3300194: Omni_0 1
+    3300196: Omni_0 3
+    3300198: SW7475-1-B
+    3300200: TASTIERA PC
+    3300202: W-cs180800.dwg
+    4300000: Mesh SW7475-1-B
+    4300002: Mesh Group 4
+    4300004: Mesh Omni_0
+    4300006: Mesh Group 9
+    4300008: Mesh Group 11
+    4300010: Mesh Group 13
+    4300012: Mesh Group 15
+    4300014: Mesh Group 17
+    4300016: Mesh Group 19
+    4300018: Mesh Group 21
+    4300020: Mesh Group 23
+    4300022: Mesh Group 25
+    4300024: Mesh Group 28
+    4300026: Mesh Group 30
+    4300028: Mesh Group 32
+    4300030: Mesh Group 34
+    4300032: Mesh Omni_0
+    4300034: Mesh Group 42
+    4300036: Mesh Group 44
+    4300038: Mesh Group 46
+    4300040: Mesh Group 48
+    4300042: Mesh Group 50
+    4300044: Mesh Group 52
+    4300046: Mesh Group 57
+    4300048: Mesh CASS 4 CASS VERDE INGL
+    4300050: Mesh Gruppo#13
+    4300052: Mesh Gruppo#14
+    4300054: Mesh Gruppo#15
+    4300056: Mesh Gruppo#16
+    4300058: Mesh Gruppo#17
+    4300060: Mesh Gruppo#18
+    4300062: Mesh Gruppo#19
+    4300064: Mesh Group 123
+    4300066: Mesh Group 125
+    4300068: Mesh Group 127
+    4300070: Mesh W-cs180800.dwg
+    4300072: Mesh J-GS
+    4300074: Mesh Gruppo#15
+    4300076: Mesh Gruppo#16
+    4300078: Mesh Gruppo#17
+    4300080: Mesh Gruppo#18
+    4300082: Mesh Gruppo#19
+    4300084: Mesh Gruppo#20
+    4300086: Mesh Gruppo#21
+    4300088: Mesh Gruppo#22
+    4300090: Mesh Gruppo#23
+    4300092: Mesh Gruppo#24
+    4300094: Mesh Gruppo#25
+    4300096: Mesh J-GS
+    4300098: Mesh Gruppo#21
+    4300100: Mesh computer 4#1
+    4300102: Mesh Group 187
+    4300104: Mesh Flat-monitor#1
+    4300106: Mesh TASTIERA PC
+    4300108: Mesh Group 196
+    4300110: Mesh Group 198
+    4300112: Mesh Group 200
+    4300114: Mesh Group 202
+    4300116: Mesh Group 204
+    4300118: Mesh Group 206
+    4300120: Mesh Group 208
+    4300122: Mesh Group 210
+    4300124: Mesh Group 213
+    4300126: Mesh Group 215
+    4300128: Mesh Group 217
+    4300130: Mesh Group 220
+    4300132: Mesh Omni_0
+    4300134: Mesh Group 226
+    4300136: Mesh Group 228
+    4300138: Mesh Group 230
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

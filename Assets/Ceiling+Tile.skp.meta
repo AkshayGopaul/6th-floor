@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 351050dabd0c3c045abf778245e19005
+timeCreated: 1470048595
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000
+  assetHash:
+    serializedVersion: 2
+    Hash: dfc1fe088d5e324c9b36715f985da497
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 2.166236, y: 1.0704961, z: 2.725258}
+      lookAt: {x: -64.014626, y: 117.54551, z: 110.71824}
+      up: {x: 0.35368782, y: 0.73607826, z: -0.5771427}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Component#1
+    100004: Component#5
+    100006: Component#5 1
+    100008: Component#5 2
+    100010: Component#5 3
+    100012: Component#5 4
+    100014: Component#5 5
+    100016: Component#5 6
+    100018: Component#5 7
+    100020: Flourescent Tubes
+    100022: Flourescent Tubes 1
+    100024: Group 19
+    100026: Group 22
+    100028: Light Shield
+    100030: Outside_Edge
+    100032: Parabolic Shield
+    100034: Recessed_Lighting_2x4
+    400000: //RootNode
+    400002: Component#1
+    400004: Component#5
+    400006: Component#5 1
+    400008: Component#5 2
+    400010: Component#5 3
+    400012: Component#5 4
+    400014: Component#5 5
+    400016: Component#5 6
+    400018: Component#5 7
+    400020: Flourescent Tubes
+    400022: Flourescent Tubes 1
+    400024: Group 19
+    400026: Group 22
+    400028: Light Shield
+    400030: Outside_Edge
+    400032: Parabolic Shield
+    400034: Recessed_Lighting_2x4
+    2300000: Component#5
+    2300002: Component#5 1
+    2300004: Component#5 2
+    2300006: Component#5 3
+    2300008: Component#5 4
+    2300010: Component#5 5
+    2300012: Component#5 6
+    2300014: Component#5 7
+    2300016: Flourescent Tubes
+    2300018: Flourescent Tubes 1
+    2300020: Group 19
+    2300022: Group 22
+    2300024: Light Shield
+    2300026: Parabolic Shield
+    3300000: Component#5
+    3300002: Component#5 1
+    3300004: Component#5 2
+    3300006: Component#5 3
+    3300008: Component#5 4
+    3300010: Component#5 5
+    3300012: Component#5 6
+    3300014: Component#5 7
+    3300016: Flourescent Tubes
+    3300018: Flourescent Tubes 1
+    3300020: Group 19
+    3300022: Group 22
+    3300024: Light Shield
+    3300026: Parabolic Shield
+    4300000: Mesh Component#5
+    4300002: Mesh Group 19
+    4300004: Mesh Group 22
+    4300006: Mesh Parabolic Shield
+    4300008: Mesh Flourescent Tubes
+    4300010: Mesh Light Shield
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
